@@ -1,2 +1,4 @@
-# nus-devops-dec20
-This is for devops class.
+# This is the title of my page. 
+lorem ipsum...
+## I believe this will be printed in smaller text. 
+lorem ipsum...
