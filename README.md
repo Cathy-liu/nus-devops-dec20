@@ -1,5 +1,11 @@
 # This is the title of my page. 
 lorem ipsum...
 ## I believe this will be printed in smaller text. 
-lorem ipsum...
-add another line...
+lorem ipsum, it's time for lunch pretty soon!
+
+Here are my food options:
+
+* sushi
+* pizza
+* wanton mee
+* hokkien mee
